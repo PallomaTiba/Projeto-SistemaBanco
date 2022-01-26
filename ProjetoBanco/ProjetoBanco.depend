@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1626813812 source:c:\users\napexz\documents\facul\projetobanco\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
